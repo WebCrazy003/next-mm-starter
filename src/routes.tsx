@@ -66,8 +66,8 @@ const routes: IRoute[] = [
   },
   {
     name: 'Products',
-    layout: '/rtl',
-    path: '/rtl-default',
+    layout: '/admin',
+    path: '/products',
     icon: (
       <Icon
         as={MdProductionQuantityLimits}
